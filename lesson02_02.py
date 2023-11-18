@@ -6,3 +6,4 @@
 a = int(input())
 b = int(input())
 # дальше ваш код
+print(a * b / 2)
